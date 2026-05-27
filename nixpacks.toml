@@ -5,4 +5,4 @@ cmds = ["npm install"]
 cmds = []
 
 [start]
-cmd = "node servidor.js"
+cmd = "node server.js"
